@@ -1,0 +1,27 @@
+h1{
+    
+    width: 350px;
+    height: 20px;
+    background-color: rgb(255, 255, 255);
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(226, 43, 43);
+    padding: 100px;
+    outline-style: solid;
+    outline-width: 30px;
+    outline-color: blue;
+    margin: 200px;
+}
+.blablabla{
+    width: 350px;
+    height: 20px;
+    background-color: rgba(255, 255, 255, 0.932);
+    border-width: 10px;
+    border-style: solid;
+    border-color: blue;
+    padding: 100px;
+    outline-style: solid;
+    outline-width: 10px;
+    outline-color: rgb(255, 0, 0);
+    margin: 200px;
+}
