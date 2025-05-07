@@ -1,0 +1,26 @@
+.main{
+    display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.dados{
+    border: 3px solid crimson;
+    border-radius: 20px;
+    padding: 10px;
+
+
+}
+
+
+
+
+.comment{
+    border: 3px solid crimson;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+.internal-login{
+    border: 1px solid;
+}
+
